@@ -111,7 +111,8 @@ render_to_svg
 main (stage5)
 Строит граф зависимостей, создает SVG-изображение, выводит ASCII-дерево.
 
-![img.png](img.png)
+<img width="624" height="742" alt="изображение" src="https://github.com/user-attachments/assets/7ab4c90d-5d6b-4564-bc45-af6447103733" />
+
 
 Команды для запуска проекта 
 
