@@ -1,0 +1,15 @@
+[app]
+package_name = "A"
+repo_url = "test_repo.txt"   # для этапов 3–5: путь к тестовому репозиторию
+test_repo_mode = "file"      # 'file' = тестовый репозиторий
+version = "0.1.0"            # для этапа 2, если используешь реальный Cargo.toml
+graph_image = "deps.svg"     # имя SVG-файла с графом
+ascii_tree = true            # включить вывод ASCII-дерева
+
+#[app]
+#package_name = "demo_proj"
+#repo_url = "C:\\Users\\1\\Desktop\\Python\\CLI\\cargo\\demo_proj"
+#test_repo_mode = "file"
+#version = "0.1.0"
+#graph_image = "deps.svg"
+#ascii_tree = true
